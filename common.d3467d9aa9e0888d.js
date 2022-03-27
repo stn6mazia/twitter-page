@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktwitter=self.webpackChunktwitter||[]).push([[592],{7896:(n,s,t)=>{t.d(s,{z:()=>e});class e{constructor(){this.login="",this.password="",this.token=""}deserialize(i){return Object.assign(this,i),this}}}}]);
